@@ -4,7 +4,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 header { 
-    background: url(/image/background.jpg) no-repeat center center/cover;
+    background: url(background.jpg) no-repeat center center/cover;
     color: white;  
     height: 100%;
     padding: 15rem 32px 32px;   
